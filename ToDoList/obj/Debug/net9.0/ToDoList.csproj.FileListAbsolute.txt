@@ -1,0 +1,14 @@
+/Users/andreypadias/Documents/Coding/ToDoList/bin/Debug/net9.0/ToDoList
+/Users/andreypadias/Documents/Coding/ToDoList/bin/Debug/net9.0/ToDoList.deps.json
+/Users/andreypadias/Documents/Coding/ToDoList/bin/Debug/net9.0/ToDoList.runtimeconfig.json
+/Users/andreypadias/Documents/Coding/ToDoList/bin/Debug/net9.0/ToDoList.dll
+/Users/andreypadias/Documents/Coding/ToDoList/bin/Debug/net9.0/ToDoList.pdb
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.AssemblyInfoInputs.cache
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.AssemblyInfo.cs
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.dll
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/refint/ToDoList.dll
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.pdb
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ToDoList.genruntimeconfig.cache
+/Users/andreypadias/Documents/Coding/ToDoList/obj/Debug/net9.0/ref/ToDoList.dll
