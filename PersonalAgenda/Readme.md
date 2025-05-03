@@ -42,7 +42,7 @@ PersonalAgenda/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/andreypadias/PersonalAgenda.git
+   git clone https://github.com/andreypadias/C_Sharp/PersonalAgenda.git
    cd PersonalAgenda
    ```
 
@@ -122,5 +122,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-**Your Name**  
+**Andrey Padias**  
 GitHub: [AndreyPadias](https://github.com/AndreyPadias)
