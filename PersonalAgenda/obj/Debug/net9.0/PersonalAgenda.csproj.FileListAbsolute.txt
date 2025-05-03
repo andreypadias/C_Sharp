@@ -1,0 +1,14 @@
+/Users/andreypadias/Documents/Coding/PersonalAgenda/bin/Debug/net9.0/PersonalAgenda
+/Users/andreypadias/Documents/Coding/PersonalAgenda/bin/Debug/net9.0/PersonalAgenda.deps.json
+/Users/andreypadias/Documents/Coding/PersonalAgenda/bin/Debug/net9.0/PersonalAgenda.runtimeconfig.json
+/Users/andreypadias/Documents/Coding/PersonalAgenda/bin/Debug/net9.0/PersonalAgenda.dll
+/Users/andreypadias/Documents/Coding/PersonalAgenda/bin/Debug/net9.0/PersonalAgenda.pdb
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.AssemblyInfoInputs.cache
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.AssemblyInfo.cs
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.csproj.CoreCompileInputs.cache
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.dll
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/refint/PersonalAgenda.dll
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.pdb
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/PersonalAgenda.genruntimeconfig.cache
+/Users/andreypadias/Documents/Coding/PersonalAgenda/obj/Debug/net9.0/ref/PersonalAgenda.dll
