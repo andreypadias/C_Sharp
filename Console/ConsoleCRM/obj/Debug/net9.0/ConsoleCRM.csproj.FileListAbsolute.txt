@@ -1,0 +1,14 @@
+/Users/andreypadias/Documents/Coding/ConsoleCRM/bin/Debug/net9.0/ConsoleCRM
+/Users/andreypadias/Documents/Coding/ConsoleCRM/bin/Debug/net9.0/ConsoleCRM.deps.json
+/Users/andreypadias/Documents/Coding/ConsoleCRM/bin/Debug/net9.0/ConsoleCRM.runtimeconfig.json
+/Users/andreypadias/Documents/Coding/ConsoleCRM/bin/Debug/net9.0/ConsoleCRM.dll
+/Users/andreypadias/Documents/Coding/ConsoleCRM/bin/Debug/net9.0/ConsoleCRM.pdb
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.AssemblyInfoInputs.cache
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.AssemblyInfo.cs
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.csproj.CoreCompileInputs.cache
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.dll
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/refint/ConsoleCRM.dll
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.pdb
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ConsoleCRM.genruntimeconfig.cache
+/Users/andreypadias/Documents/Coding/ConsoleCRM/obj/Debug/net9.0/ref/ConsoleCRM.dll

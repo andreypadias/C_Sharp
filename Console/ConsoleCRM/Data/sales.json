@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 600820972,
+    "CustomerId": 0,
+    "ProductId": 0,
+    "SaleDate": "2025-05-07T19:27:00.667884-06:00",
+    "Amount": 0,
+    "Customer": {
+      "Id": 2090864837,
+      "Name": "Keylor Navas",
+      "Email": "halcon@kn.com",
+      "Phone": "0121212"
+    },
+    "Products": [
+      {
+        "Id": 849337704,
+        "Name": "Universal USB Charger",
+        "Description": "usb charger",
+        "Price": 40,
+        "StockQuantity": 3,
+        "CreatedAt": "0001-01-01T00:00:00",
+        "UpdatedAt": "0001-01-01T00:00:00",
+        "Sales": null
+      },
+      {
+        "Id": 901866263,
+        "Name": "Mouse Pad Anime",
+        "Description": "Anime characters mouse pad",
+        "Price": 20,
+        "StockQuantity": 7,
+        "CreatedAt": "0001-01-01T00:00:00",
+        "UpdatedAt": "0001-01-01T00:00:00",
+        "Sales": null
+      }
+    ]
+  },
+  {
+    "Id": -1379579957,
+    "CustomerId": 0,
+    "ProductId": 0,
+    "SaleDate": "2025-05-07T20:35:17.59383-06:00",
+    "Amount": 2700,
+    "Customer": {
+      "Id": 1764888568,
+      "Name": "Andrey",
+      "Email": "andrey@email.com",
+      "Phone": "898980"
+    },
+    "Products": [
+      {
+        "Id": 1924540869,
+        "Name": "Az3r Gamer Laptop",
+        "Description": "256 GB Pentium 4",
+        "Price": 300,
+        "StockQuantity": 9,
+        "CreatedAt": "0001-01-01T00:00:00",
+        "UpdatedAt": "0001-01-01T00:00:00",
+        "Sales": null
+      }
+    ]
+  }
+]

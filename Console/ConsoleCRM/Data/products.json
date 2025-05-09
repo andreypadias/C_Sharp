@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 0,
+    "Name": "Keyboard",
+    "Description": "Basic keyboard",
+    "Price": 200,
+    "StockQuantity": 90,
+    "CreatedAt": "2025-05-05T14:41:09.946831-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1,
+    "Name": "Intel i7",
+    "Description": "CPU Intel i7",
+    "Price": 200,
+    "StockQuantity": 90,
+    "CreatedAt": "2025-05-05T14:41:09.946831-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse Gamer",
+    "Description": "Mouse Logitech",
+    "Price": 10,
+    "StockQuantity": 70,
+    "CreatedAt": "2025-05-05T15:33:29.347282-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 3,
+    "Name": "Monitor",
+    "Description": "LG monitor 4k",
+    "Price": 300,
+    "StockQuantity": 19,
+    "CreatedAt": "2025-05-05T15:42:08.021329-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 53913339,
+    "Name": "3D Printer",
+    "Description": "3D Printer Home Edition",
+    "Price": 800,
+    "StockQuantity": 15,
+    "CreatedAt": "2025-05-06T07:52:55.921374-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1924540869,
+    "Name": "Az3r Gamer Laptop",
+    "Description": "256 GB Pentium 4",
+    "Price": 300,
+    "StockQuantity": 1,
+    "CreatedAt": "2025-05-06T08:03:57.065029-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1849615210,
+    "Name": "Headset JLC",
+    "Description": "Headset",
+    "Price": 30,
+    "StockQuantity": 100,
+    "CreatedAt": "2025-05-06T08:46:01.966169-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 901866263,
+    "Name": "Mouse Pad Anime",
+    "Description": "Anime characters mouse pad",
+    "Price": 20,
+    "StockQuantity": 90,
+    "CreatedAt": "2025-05-06T08:48:36.311905-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1574945886,
+    "Name": "Joystick ",
+    "Description": "Wireless Joystick Yojitek",
+    "Price": 34,
+    "StockQuantity": 19,
+    "CreatedAt": "2025-05-06T09:01:47.999224-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 897261909,
+    "Name": "Docking Station bELL",
+    "Description": "Docking station for Bell devices",
+    "Price": 300,
+    "StockQuantity": 12,
+    "CreatedAt": "2025-05-06T09:02:55.801489-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 997838762,
+    "Name": "USB Memory",
+    "Description": "128 GB",
+    "Price": 30,
+    "StockQuantity": 12,
+    "CreatedAt": "2025-05-06T09:09:55.207976-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 849337704,
+    "Name": "Universal USB Charger",
+    "Description": "usb charger",
+    "Price": 40,
+    "StockQuantity": 21,
+    "CreatedAt": "2025-05-06T10:07:26.031195-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 398114083,
+    "Name": "Contact Cleanar",
+    "Description": "Contact Cleaner 250 ml",
+    "Price": 30,
+    "StockQuantity": 3,
+    "CreatedAt": "2025-05-06T10:16:40.27588-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1112524340,
+    "Name": "USB Adapter",
+    "Description": "USB Adapter for VGA",
+    "Price": 9,
+    "StockQuantity": 10,
+    "CreatedAt": "2025-05-06T10:17:51.74749-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1235965895,
+    "Name": "Cooler",
+    "Description": "Laptop Cooler USB",
+    "Price": 13.89,
+    "StockQuantity": 9,
+    "CreatedAt": "2025-05-06T10:46:42.045995-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  },
+  {
+    "Id": 1835368471,
+    "Name": "Router Zyzk0",
+    "Description": "Wireless Router",
+    "Price": 200,
+    "StockQuantity": 10,
+    "CreatedAt": "2025-05-06T11:10:12.89724-06:00",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "Sales": null
+  }
+]
